@@ -1,4 +1,4 @@
-# 🛠️ التقنيات المستخدمة — منصة تجارة إلكترونية مع لوحة إدارة شاملة
+# 🛠️ Technologies Used — E-Commerce Platform with Comprehensive Admin Dashboard
 
 - Next.js
 - TypeScript

@@ -1,21 +1,20 @@
-# منصة تجارة إلكترونية مع لوحة إدارة شاملة
-**E-Commerce Platform with Admin Dashboard** · التصنيف: متكامل (Full Stack)
+# E-Commerce Platform with Comprehensive Admin Dashboard
+**E-Commerce Platform with Admin Dashboard** · Classification: Full Stack
 
-> وثيقة تعريفية بالمشروع (المواصفات والتقنيات) — لا تتضمن الكود المصدري.
-> Project overview document — source code is not included.
+> Project overview document (specifications and technologies) — source code is not included.
 
-## نبذة عن المشروع
-منصة تجارة إلكترونية كاملة مع خلفية Django وتكامل Stripe.
+## Project Overview
+A full e-commerce platform with a Django backend and Stripe integration.
 
-## أبرز النقاط
-- Celery لمعالجة الطلبات غير المتزامنة + فواتير PDF
-- Stripe Webhooks للاشتراكات والمدفوعات
-- لوحة إدارة مع تحليلات وإدارة مخزون
+## Highlights
+- Celery for asynchronous task processing + PDF invoices
+- Stripe Webhooks for subscriptions and payments
+- Admin dashboard with analytics and inventory management
 
-## الدور
-مطوّر Full Stack: الواجهة الأمامية والخدمات الخلفية وقواعد البيانات والنشر.
+## Role
+Full Stack Developer: frontend, backend services, databases, and deployment.
 
-## التقنيات المستخدمة
+## Tech Stack
 Next.js, TypeScript, Django, PostgreSQL, Celery, Redis, AWS S3, Stripe, Docker
 
-التفاصيل في [TECHSTACK.md](./TECHSTACK.md).
+Details in [TECHSTACK.md](./TECHSTACK.md).
